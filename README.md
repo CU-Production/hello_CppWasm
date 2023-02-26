@@ -1,6 +1,9 @@
 # hello_CppWasm
 Embed WASM3 into Cpp
 
+- [wasm3](https://github.com/wasm3/wasm3)
+- [wasm3_cpp](https://github.com/wasm3/wasm3/tree/main/platforms/cpp)
+
 # Build rust wasm proj
 
 ```shell
